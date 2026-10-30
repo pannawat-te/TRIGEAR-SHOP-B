@@ -1,0 +1,2 @@
+# Optional: profile camera only
+opencv-python
